@@ -8,6 +8,8 @@ Past projects: <br>
 - solana related scripts
 - Unity games
 - Websites
+- Non-Euclidean Geometry renderer
+- Text editor
 
 <br>
 ![](https://komarev.com/ghpvc/?username=RiadZX)<br/> 
