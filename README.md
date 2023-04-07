@@ -10,6 +10,7 @@ Past projects: <br>
 - Websites
 - Non-Euclidean Geometry renderer
 - Text editor
+- py-mawaqit
 
 <br>
 
