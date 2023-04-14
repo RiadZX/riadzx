@@ -1,6 +1,5 @@
-Hi, welcome to my GitHub page! ⚡<br>
+Hi, welcome to my GitHub page! ⚡<br><p><img align="right" alt="gif" src="https://media.tenor.com/CeiYlOyw55oAAAAi/pokemon-pixel-art.gif" width="400" height="200" /></p>
 You can contact me at `riadzaid100@gmail.com` 📫 <br>
-Creator of QuickTools https://docs.quicktools.pro/ <br>
 Past projects: <br>
 - Solana floor sniper
 - Aptos minting bot, floor sniper
