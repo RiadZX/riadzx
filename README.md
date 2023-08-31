@@ -13,4 +13,6 @@ Past projects: <br>
 
 <br>
 
+<a href="https://discord.com/channels/@me/481025697343733760"> <img src="https://discord.c99.nl/widget/theme-1/481025697343733760.png" alt="contact me">
+  
 ![](https://komarev.com/ghpvc/?username=RiadZX)<br/> 
