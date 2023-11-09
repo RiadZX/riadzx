@@ -7,10 +7,6 @@ Past projects: <br>
 - solana related scripts
 - Unity games
 - Websites
-- Non-Euclidean Geometry renderer
-- Text editor
-- py-mawaqit
-
 <br>
   
 ![](https://komarev.com/ghpvc/?username=RiadZX)<br/> 
