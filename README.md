@@ -2,8 +2,7 @@ Hi, welcome to my GitHub page! ⚡<br><p><img align="right" alt="gif" src="https
 You can contact me at `riadzaid100@gmail.com` 📫 <br>
 Past projects: <br>
 - Solana bots & Tools
-- Aptos bots & Tools
-- Sui bots & Tools
+- Crypto bots
 - Discord bots
 - Unity games
 - Websites
